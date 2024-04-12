@@ -1,7 +1,6 @@
-@hostname = localhost:7071
+@hostname = localhost
 @port = 7017
 ###
-GET  /api/BatchStart
-HOST: {{hostname}}:{{port}}
+GET  http://localhost:7071/api/BatchStart
 content-type: application/json
 ###
