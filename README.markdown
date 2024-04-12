@@ -1,0 +1,1 @@
+# Functions(C#) Azure Batch 実行 I/Fサンプル
